@@ -27,91 +27,96 @@ Tenho trabalhado com diversas tecnologias, tanto no front-end como no back-end, 
 <br>
 
 ## 🔨 Linguagens e Tecnologias:
-<a href="https://kotlinlang.org/lp/multiplatform/" target="_blank">
-    <img alt="Kotlin Multiplatform" height="42px" src="https://raw.githubusercontent.com/JetBrains/kotlin-web-site/master/assets/images/favicon.svg"/>
-</a>
-<a href="https://www.java.com" target="_blank">
-    <img alt="Java" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-</a>
+<!-- Linguagens de Programação -->
 
-<a href="https://developer.android.com/jetpack/compose" target="_blank">
-    <img alt="Jetpack Compose" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg"/>
-</a>
-<a href="https://developer.android.com/studio" target="_blank">
-    <img alt="Android Studio" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"/>
-</a>
+<p>
+    <a href="https://kotlinlang.org/lp/multiplatform/" target="_blank">
+        <img alt="Kotlin Multiplatform" height="42px" src="https://raw.githubusercontent.com/JetBrains/kotlin-web-site/master/assets/images/favicon.svg"/>
+    </a>
+    <a href="https://www.java.com" target="_blank">
+        <img alt="Java" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+    </a>
+    <a href="https://developer.apple.com/swift/" target="_blank">
+        <img alt="Swift" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img alt="Typescript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"/>
+    </a>
+    <a href="https://www.python.org/" target="_blank">
+        <img alt="Python" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+    </a>
+</p>
 
-<a href="https://firebase.google.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height="42px"/> 
-</a>
+<!-- Frameworks -->
+<h3>Frameworks</h3>
+<p>
+    <a href="https://developer.android.com/jetpack/compose" target="_blank">
+        <img alt="Jetpack Compose" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg"/>
+    </a>
+    <a href="https://spring.io/" target="_blank">
+        <img alt="Spring" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/spring/spring.svg"/>
+    </a>
+    <a href="https://www.selenium.dev/" target="_blank">
+        <img alt="Selenium" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png?20200511151950"/>
+    </a>
+</p>
 
-<a href="https://ktor.io/" target="_blank">
-    <img alt="Ktor" height="42px" src="https://avatars.githubusercontent.com/u/23539432?s=200&v=4"/>
-</a>
+<!-- Ferramentas de Desenvolvimento -->
+<h3>Ferramentas de Desenvolvimento</h3>
+<p>
+    <a href="https://developer.android.com/studio" target="_blank">
+        <img alt="Android Studio" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img alt="Git" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+    </a>
+    <a href="https://www.figma.com/" target="_blank">
+        <img alt="Figma" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"/>
+    </a>
+    <a href="https://www.firebase.com/" target="_blank">
+        <img alt="Firebase" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/docker/docker.svg" alt="Docker" height="42px"/> 
+    </a>
+    <a href="https://kubernetes.io/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/kubernetes/kubernetes.svg" alt="Kubernetes" height="42px"/> 
+    </a>
+</p>
 
+<!-- Banco de Dados -->
+<h3>Bancos de Dados</h3>
+<p>
+    <a href="https://www.mongodb.com/" target="_blank"> 
+        <img src="https://www.svgrepo.com/download/331488/mongodb.svg" alt="MongoDB" height="42px"/> 
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank"> 
+        <img src="https://vetores.org/d/postgresql.svg" alt="PostgreSQL" height="42px"/> 
+    </a>
+</p>
 
-<br>
-<a href="https://spring.io/" target="_blank">
-    <img alt="Spring" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/spring/spring.svg"/>
-</a>
-<a href="https://learn.microsoft.com/en/cpp/c-language/" target="_blank">
-    <img alt="C" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/c/c.svg"/>
-</a>
+<!-- Infraestrutura e Cloud -->
+<h3>Infraestrutura e Cloud</h3>
+<p>
+    <a href="https://aws.amazon.com/" target="_blank">
+        <img alt="AWS" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/aws/aws.svg"/>
+    </a>
+    <a href="https://cloud.google.com/" target="_blank">
+        <img alt="GCP" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/google-cloud/google-cloud.svg"/>
+    </a>
+</p>
 
-<a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://www.svgrepo.com/download/331488/mongodb.svg" alt="MongoDB" height="42px"/> 
-</a>
-<a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://vetores.org/d/postgresql.svg" alt="PostgreSQL" height="42px"/> 
-</a>
-<a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/docker/docker.svg" alt="Docker" height="42px"/> 
-</a>
-<a href="https://kubernetes.io/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/kubernetes/kubernetes.svg" alt="Kubernetes" height="42px"/> 
-</a>
-<a href="https://developer.apple.com/swift/" target="_blank">
-    <img alt="Swift" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
-    <img alt="HTML" height="42px"  src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/html/html.svg"/> 
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
-    <img alt="CSS" height="42px"  src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/css/css.svg"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img alt="JavaScript" height="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"/> 
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-    <img alt="Typescript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-    <img alt="Git" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-</a>
-<a href="https://www.python.org/" target="_blank">
-    <img alt="Python" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-</a>
-<a href="https://nodejs.org" target="_blank">
-    <img alt="Node.js" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"/>
-</a>
-<a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> 
-</a>
-<a href="https://httpd.apache.org/" target="_blank">
-    <img alt="Apache Server" height="42px" src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/httpd.svg"/>
-</a>
-<a href="https://aws.amazon.com/" target="_blank">
-    <img alt="AWS" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/aws/aws.svg"/>
-</a>
-<a href="https://cloud.google.com/" target="_blank">
-    <img alt="GCP" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/google-cloud/google-cloud.svg"/>
-</a>
-<a href="https://www.selenium.dev/" target="_blank">
-    <img alt="Selenium" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png?20200511151950"/>
-</a>
-<a href="https://hibernate.org/" target="_blank">
-    <img alt="Hibernate" height="42px" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg"/>
-</a>
+<!-- Outros -->
+<h3>Outros</h3>
+<p>
+    <a href="https://www.apache.org/" target="_blank">
+        <img alt="Apache Server" height="42px" src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/httpd.svg"/>
+    </a>
+    <a href="https://nodejs.org" target="_blank">
+        <img alt="Node.js" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"/>
+    </a>
+</p>
+
 
 
 ## 🏅 Minhas estatisticas do github:

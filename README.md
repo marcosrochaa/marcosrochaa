@@ -39,8 +39,8 @@ Tenho trabalhado com diversas tecnologias, tanto no front-end como no back-end, 
     <a href="https://developer.apple.com/swift/" target="_blank">
         <img alt="Swift" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"/>
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img alt="Typescript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"/>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <img alt="JavaScript" height="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"/> 
     </a>
     <a href="https://www.python.org/" target="_blank">
         <img alt="Python" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>

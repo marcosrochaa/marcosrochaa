@@ -23,9 +23,10 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)]()
 
-Sou um programador experiente com fortes competências em Java e conhecimento de Linux. Trabalho como programador desde os 15 anos de idade e sempre tive vontade de aprender novas tecnologias e melhorar as minhas competências.
+Sou um programador experiente com fortes competências em Kotlin, Java e Python. Trabalho como programador desde os 19 anos de idade e sempre tive vontade de aprender novas tecnologias e melhorar as minhas competências.
+Comecei programando Arduíno em C e posteriormente programando PLC em Ladder.
 
-Tenho trabalhado com várias tecnologias, tanto no front-end como no back-end, e sempre me esforcei por contribuir para um ambiente colaborativo e produtivo. O meu ponto mais forte é a programação em Java, onde tenho desenvolvido soluções complexas e eficientes para vários projectos.
+Tenho trabalhado com diversas tecnologias, tanto no front-end como no back-end, atualmente no desenvolvimento android nativo com Kotlin. Sempre me esforcei por contribuir para um ambiente colaborativo e produtivo. O meu ponto mais forte é a programação em Kotlin/Java, onde tenho desenvolvido soluções complexas e eficientes para vários projectos.
 <br/>
 <br/>
 

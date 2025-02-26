@@ -30,7 +30,6 @@ Tenho trabalhado com diversas tecnologias, tanto no front-end como no back-end, 
 <code><img height="30" src="https://user-images.githubusercontent.com/32901063/122115889-4e5af000-cdfb-11eb-8988-c7c776bce4f7.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/java-23-225999.png"></code>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 <br>
 <a href="https://www.java.com" target="_blank"><img alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"/></a>

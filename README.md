@@ -33,7 +33,7 @@ Tenho trabalhado com diversas tecnologias, tanto no front-end como no back-end, 
 
 <br>
 <a href="https://www.java.com" target="_blank"><img alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"/></a>
-<a href="https://www.java.com" target="_blank"><img alt="Spring" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/spring/spring.svg"/></a>
+<a href="https://spring.io/" target="_blank"><img alt="Spring" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/spring/spring.svg"/></a>
 <a href="https://learn.microsoft.com/en/cpp/c-language/" target="_blank"><img alt="C" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/c/c.svg"/></a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.svgrepo.com/download/331488/mongodb.svg" alt="MongoDB" height ="42px"/> </a>

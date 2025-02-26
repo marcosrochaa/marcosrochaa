@@ -30,8 +30,18 @@ Tenho trabalhado com diversas tecnologias, tanto no front-end como no back-end, 
 <code><img height="30" src="https://user-images.githubusercontent.com/32901063/122115889-4e5af000-cdfb-11eb-8988-c7c776bce4f7.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/java-23-225999.png"></code>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png"></code>
+<a href="https://developer.android.com/jetpack/compose" target="_blank">
+    <img alt="Jetpack Compose" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg"/>
+</a>
+<a href="https://developer.android.com/jetpack" target="_blank">
+    <img alt="Android Jetpack" height="30px" src="https://developer.android.com/images/brand/Android_Robot.png"/>
+</a>
+
+
+
 
 <br>
+
 <a href="https://www.java.com" target="_blank"><img alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"/></a>
 <a href="https://spring.io/" target="_blank"><img alt="Spring" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/spring/spring.svg"/></a>
 <a href="https://learn.microsoft.com/en/cpp/c-language/" target="_blank"><img alt="C" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/c/c.svg"/></a>
